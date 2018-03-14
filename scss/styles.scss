@@ -33,20 +33,26 @@
     ------------------------
 */
 
+// #5ed1c1 Medium Turquoise : Primary
+// #3e5dad Liberty          : Secondary
+// #fffcf2 Floral White     : Light
+// #a5a39d Quick Silver     : Dark
+// #3f3f3f Black olive, baby: Text
+
 // Define base and accent colors
-$base-color: #3498db;
+$base-color: #5ed1c1; // #3498db;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
-$background: #fff;
+$background: #fffcf2;
 $background-alt: #f2f2f5;
 
 // Define border colors
-$border: #dcd9d9;
+$border: #fffc2f;
 
 // Define text colors
-$heading: #374054;
-$text: #74808a;
+$heading: #2d2d2d;
+$text: #3f3f3f;
 
 /*
     ---------------------
