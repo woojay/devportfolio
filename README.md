@@ -6,6 +6,9 @@ To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/
 
 ## Features
 
+Use gulp watch for SASS
+
+
 * Gulp ready (compiles Sass and minifies JS)
 * Sass ready with lots of commenting
 * Fully responsive
